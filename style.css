@@ -1,0 +1,22 @@
+h1 {
+    font-size: 36px;
+} 
+h2 {
+    font-size: 32px;
+} 
+h3 {
+    font-size: 20px;
+} 
+#header {
+    color: blue;
+    text-align: center;
+    margin-bottom: 32px;
+}
+#footer {
+    color: green;
+    text-align: center;
+    margin-top: 64px;
+}
+#main {
+    color: black;
+    }
